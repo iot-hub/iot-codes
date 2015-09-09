@@ -1,6 +1,0 @@
-<?php
-$MyUsername = "vgsom_p21";      // enter your username for mysql
-$MyPassword = "pass2009word";   // enter your password for mysql
-$MyHostname = "localhost";      // this is usually "localhost" unless your database resides on a different server
-$MyDBname = "vgsom_p2100";      // the database where the tables are located
-?>
