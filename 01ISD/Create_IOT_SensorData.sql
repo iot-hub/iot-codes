@@ -1,0 +1,7 @@
+CREATE TABLE `IOT_SensorData` (
+`id` INT NOT NULL AUTO_INCREMENT PRIMARY KEY COMMENT 'unique ID',
+`event` TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP COMMENT 'Event Date and Time',
+`sensorID` VARCHAR(30 ) NOT NULL COMMENT 'Unique ID of the sensor',
+`Value` NUMERIC( 4,1 ) NOT NULL COMMENT 'Value of data recorded'
+);
+
