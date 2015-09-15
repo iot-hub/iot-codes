@@ -1,0 +1,1 @@
+This directory contains python and shell scripts required to move data from one machine to another using publicly hosted chat servers. For more details, please visit this webpage http://www.iot-hub.org/2015/09/diy-iot-public-chat-servers-to.html
