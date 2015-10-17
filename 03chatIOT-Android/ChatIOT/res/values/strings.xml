@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ChatIOT</string>
+    <string name="action_settings">Settings</string>
+    <string name="button1text">Connect</string>
+    <string name="button2text">Send</string>
+    <string name="button3text">Disconnect</string>
+    <string name="Heading2text">xmpp chat for IOT</string>
+    <string name="Heading1text">chatIOT</string>
+
+
+</resources>
