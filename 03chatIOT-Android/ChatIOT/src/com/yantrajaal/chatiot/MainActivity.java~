@@ -28,7 +28,7 @@ public class MainActivity extends Activity {
 	String msg = "PM1139 : ";
 	
 	XMPPTCPConnectionConfiguration configChatIOT = XMPPTCPConnectionConfiguration.builder()
-            .setUsernameAndPassword("uid2", "passwd2")
+            .setUsernameAndPassword("pm2", "passw0rd")
             .setServiceName("adastra.re")
             .setHost("adastra.re")
             .setPort(5222)
@@ -77,7 +77,7 @@ public class MainActivity extends Activity {
 	 	// Assume we've created an XMPPConnection name "conxChatIOT"._
 	 		ChatManager chatmanager = ChatManager.getInstanceFor(conxChatIOT);
 	 		
-	 		Chat ChatIOT = chatmanager.createChat("uid3@adastra.re", new ChatMessageListener() {
+	 		Chat ChatIOT = chatmanager.createChat("pm3@adastra.re", new ChatMessageListener() {
 	 			public void processMessage(Chat chat, Message message) {
 	 				System.out.println("Received message: " + message);
 	 			}
