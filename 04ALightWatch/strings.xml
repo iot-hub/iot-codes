@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LightWatch</string>
+    <string name="Heading2text">www.iot-hub.org</string>
+    <string name="Heading1text">LightWatch</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
