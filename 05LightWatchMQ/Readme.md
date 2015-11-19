@@ -1,0 +1,1 @@
+The LightWatchMQ project is an example of a Do-It-Yourself IOT (Internet of Things) project that uses light sensors connected to an Android device to sense data and then send the same through an MQTT message broker to wide range of storage devices. Full details of the project are available at http://www.iot-hub.org/2015/11/lightwatchmq-iot-with-mqtt-pubsub-and.html
