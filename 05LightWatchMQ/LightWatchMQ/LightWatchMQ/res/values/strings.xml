@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LightWatchMQ</string>
+    <string name="button1text">Start</string>
+    <string name="button2text">Disabled</string>
+    
+    <string name="Heading2text">www.iot-hub.org</string>
+    <string name="Heading1text">LightWatch MQTT</string>
+     <string name="image_description">IOTHubLogo</string>
+
+</resources>
