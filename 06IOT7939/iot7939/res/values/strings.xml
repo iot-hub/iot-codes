@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">iot7939</string>
+    
+    
+    <string name="button1text">Start</string>
+    <string name="button2text">Disabled</string>
+    
+    <string name="Heading2text">www.iot-hub.org</string>
+    <string name="Heading1text">IOT7939</string>
+     <string name="image_description">IOTHubLogo</string>
+
+</resources>
