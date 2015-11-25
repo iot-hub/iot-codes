@@ -1,0 +1,1 @@
+The IOT7939 project is all about building Android apps that can communicate through MQTT message brokers and be used as a part of the architecture of IOT - The Internet of Things. For more information read the blog post http://www.iot-hub.org/2015/11/bidirectional-pub-sub-prototype-for.html
